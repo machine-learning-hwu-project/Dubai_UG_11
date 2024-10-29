@@ -1,0 +1,50 @@
+Github Commands List
+
+1 replace branchname with the name of your branch in the commands below
+2.don't write //comments when writing your commands in terminal
+
+Two simple concepts : 
+local : what's available on your computer locally
+remote : what's on the github server
+
+
+Push Code
+
+ git pull origin branchname // do this always incase someone did some change in your branch without you knowing
+ git add . 
+ git commit -m “a proper message here”
+ git push origin branchname
+
+
+Creating a new branch and switch to it
+ 
+ git checkout -b branchname
+
+ Note : this new branch is created locally on your computer only. It won’t show up on github unless you make some code changes and push that changes to github.
+
+
+Switching to an existing branch
+ 
+ git fetch // fetch newly created branches from github
+ git checkout branchname
+
+
+Merge your branch into main
+
+ git pull origin main // pull latest changes from main in your branch
+ git checkout main
+ git pull origin main // yes u have to do this again!, pull latest changes from main in main branch
+ git merge branchname
+ git push origin main
+
+
+Check If you have uncommited changes in your branch locally
+If incase you forget whether you ran git add and git commit or not.
+Also useful to check what files have been changed since your last commit
+ 
+ git status
+
+
+Delete all the uncommited changes in your branch and Revert back to the last commit
+
+ git restore
