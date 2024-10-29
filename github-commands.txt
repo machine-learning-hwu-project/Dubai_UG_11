@@ -1,7 +1,7 @@
 Github Commands List
 
-1 replace branchname with the name of your branch in the commands below
-2.don't write //comments when writing your commands in terminal
+1. replace branchname with the name of your branch in the commands below
+2. don't write //comments when writing your commands in terminal
 
 Two simple concepts : 
 local : what's available on your computer locally
