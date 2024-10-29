@@ -8,6 +8,11 @@ local : what's available on your computer locally
 remote : what's on the github server
 
 
+Clone this branch
+
+ git clone https://github.com/machine-learning-hwu-project/coursework.git
+
+
 Push Code
 
  git pull origin branchname // do this always incase someone did some change in your branch without you knowing
