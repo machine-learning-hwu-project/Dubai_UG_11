@@ -1,1 +1,43 @@
-This section focuses on the data-analysis side of the repo where,
+# Data Analysis Section
+This section focuses on the data analysis part of the project, where we analyze and pre-process the dataset before applying any crucial algorithms (R3-R5) :
+
+## Dataset Overview
+The initial analyzing of the dataset revealed an imbalance in target classes. This imbalance could affect model performance by biasing predictions toward the majority class which is the Not lung cancer class. Below is a snapshot of the dataset’s class distribution:
+
+(paste picture of unbalanced dataset)
+
+## Oversampling Technique
+
+To address the imbalance, we applied an oversampling technique...(add more and include refrences)
+
+
+## Model Testing with Balanced and Imbalanced Datasets
+
+To analyze how balancing affects on model performance, tests were conducted on both the imbalanced and balanced versions of the dataset. The following notebooks document this process:
+
+[`unbalanced_tabular_early testing`](/data-analysis/unbalanced_tabular_early_testing.ipynb/) : Tests conducted using the original, imbalanced dataset.
+
+[`balanced_tabular_early testing`](/data-analysis/balanced_tabular_early_testing.ipynb/) : Tests conducted using the oversampled, balanced dataset.
+
+
+Below are the confusion matrices from each notebook, showing the difference in model performance:
+
+
+
+
+
+
+### Imbalanced Dataset Confusion Matrix:
+
+![image](https://github.com/user-attachments/assets/c2b111d3-d414-4ff1-adb2-c0297d5a04fa)
+
+
+
+### Balanced Dataset Confusion Matrix:
+
+![image](https://github.com/user-attachments/assets/2e0c2700-9831-452f-90ec-cc7a79dedaf8)
+
+
+
+## Conclusion and steps forward:
+
