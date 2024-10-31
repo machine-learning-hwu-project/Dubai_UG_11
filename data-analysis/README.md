@@ -9,7 +9,7 @@ The initial analyzing of the dataset revealed an imbalance in target classes. Th
 ## Oversampling Technique
 
 To analyzie and test, oversampling was used to address the imbalance of the original dataset where originally, the output class "YES" included 270 instances and the output class "NO" included 39 instances (minority class). Random oversampling was applied to improve the models performance on the minority class and prevent bias toward the majority class. f1 score, recall and precision were measured for the balanced class. 
-[`Random_oversampling`](/data-analysis/oversampling 31_10.ipynb/) 
+[`unbalanced_tabular_early testing`](/data-analysis/oversampling_31_10.ipynb/)
 
 
 ![image](https://github.com/user-attachments/assets/81386b19-4de1-44f8-8ae0-289f3da44f61)
