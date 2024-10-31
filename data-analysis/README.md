@@ -33,13 +33,13 @@ Below are the confusion matrices from each notebook, showing the difference in m
 
 
 
-### Imbalanced Dataset Confusion Matrix:
+### balanced Dataset Confusion Matrix:
 
 ![image](https://github.com/user-attachments/assets/c2b111d3-d414-4ff1-adb2-c0297d5a04fa)
 
 
 
-### Balanced Dataset Confusion Matrix:
+### imbalanced Dataset Confusion Matrix:
 
 ![image](https://github.com/user-attachments/assets/2e0c2700-9831-452f-90ec-cc7a79dedaf8)
 
