@@ -1,0 +1,1001 @@
+Age,Gender,Air Pollution,Alcohol use,Dust Allergy,Occupational Hazards,Genetic Risk,Chronic Lung Disease,Balanced Diet,Obesity,Smoking,Passive Smoker,Chest Pain,Coughing of Blood,Fatigue,Weight Loss,Shortness of Breath,Wheezing,Swallowing Difficulty,Clubbing of Finger Nails,Frequent Cold,Dry Cough,Snoring,Level
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,F,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,F,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+OLDER ADULT,M,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,F,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,M,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,F,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,F,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,F,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,F,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,F,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,F,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+YOUNG ADULT,F,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+OLDER ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,M,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+YOUNG ADULT,M,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+OLDER ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,M,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,M,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+YOUNG ADULT,M,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,M,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+YOUNG ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+OLDER ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+OLDER ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ELDERLY,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,F,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+YOUNG ADULT,F,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,M,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+ADULT,M,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,M,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+YOUNG ADULT,M,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,M,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+YOUNG ADULT,M,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+OLDER ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,M,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+YOUNG ADULT,M,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+ADULT,M,Moderate,Moderately High,High,Moderately High,High,Moderately High,Moderately High,Moderately High,High,High,Moderately High,Moderate,None,Moderate,Low,Low,Moderate,Moderately High,Low,Moderate,None,Medium
+YOUNG ADULT,M,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Medium Low,Medium Low,Medium Low,None,Low,Medium Low,High,Moderately High,Medium Low,Low,None,Moderately High,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,Moderate,Moderately High,High,High,Moderately High,Moderate,High,High,High,High,Moderately High,Moderately High,Moderate,Medium Low,Very Low,Moderate,Medium Low,None,Severe,Moderately High,High,Medium
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ELDERLY,M,Moderately High,High,High,Moderately High,High,Moderately High,High,Moderately High,Severe,Moderately High,Moderate,Moderate,Medium Low,Medium Low,Moderately High,Low,None,Very Low,None,High,Low,Medium
+YOUNG ADULT,M,Medium Low,None,Moderately High,Medium Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low,None,Medium Low,High,Severe,High,Very Low,None,Severe,Low,Medium
+ADULT,M,High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+YOUNG ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderately High,Moderate,Moderately High,Moderate,Moderate,Medium Low,Very Low,None,Moderate,High,Low,None,High,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,High,Severe,Severe,Medium Low,Severe,Very High,Severe,Moderately High,Moderate,Low,Moderate,Low,Medium Low,Very Low,None,Severe,High,High
+OLDER ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,F,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Moderate,Severe,High,High,Medium Low,Moderate,Moderate,High,Moderately High,Moderate,Moderate,High,Moderately High,High
+YOUNG ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+ADULT,F,Low,High,Low,Medium Low,High,High,High,Moderate,High,Severe,High,Moderately High,Moderate,Moderately High,Medium Low,High,Moderately High,Medium Low,High,Moderately High,Severe,High
+ADULT,M,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Very High,Very High,Very Low,Low,Very High,Very High,High,Medium Low,Severe,Severe,None,High,Low,High
+ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+YOUNG ADULT,F,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,F,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+YOUNG ADULT,M,High,Very High,Severe,Very High,High,Severe,Severe,Low,Moderate,Medium Low,High,Very High,Very Low,Medium Low,Moderately High,Moderate,Low,Low,None,Low,None,Low
+ADULT,M,Low,Medium Low,High,Very High,Severe,Severe,Severe,Low,Moderate,Medium Low,High,Medium Low,Very Low,None,Low,Low,Low,None,Low,Moderately High,None,Low
+OLDER ADULT,F,None,Low,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Moderate,High,Very Low,Low,Severe,High,Medium Low,Severe,Low,Low,Medium Low,None,Low
+YOUNG ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,M,Low,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Medium Low,Low,None,Low,Low,Moderate,Moderately High,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Moderate,Low,Medium Low,Low,None,Low,Medium Low,Low,None,Moderately High,None,Medium Low,Very Low,High,None,Low,Moderate,Very Low,None,Low,Medium Low,Low
+YOUNG ADULT,F,None,Low,Medium Low,Moderate,Moderate,Medium Low,Low,None,Medium Low,Low,None,Very Low,None,Medium Low,Low,Low,None,Low,Low,None,None,Low
+YOUNG ADULT,F,Low,None,Medium Low,Moderate,Medium Low,Moderately High,Medium Low,Low,High,None,None,Very Low,Low,Low,None,Medium Low,Low,Medium Low,Low,None,None,Low
+ADULT,M,Low,None,Low,Medium Low,Moderate,Medium Low,Low,None,None,None,Moderately High,Very Low,None,None,None,Low,None,Very Low,Medium Low,None,Low,Low
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,M,None,Medium Low,Low,Moderate,Low,High,Low,Low,Low,None,Low,Medium Low,Medium Low,Low,Very Low,Low,Medium Low,Very Low,None,Low,Moderate,Low
+YOUNG ADULT,F,None,Low,Low,Medium Low,Low,Moderate,Low,Medium Low,Low,None,None,None,None,None,None,Low,Medium Low,Medium Low,Moderately High,Low,None,Low
+ADULT,F,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,Medium Low,Low,None,None,None,Low,Low,Low,Moderately High,None,Moderately High,None,None,Low
+YOUNG ADULT,F,Medium Low,Low,None,Medium Low,Low,None,Medium Low,Low,None,Low,Very Low,Very Low,Very Low,Low,None,Medium Low,Moderate,Medium Low,None,Moderate,None,Low
+YOUNG ADULT,F,Moderate,Low,Medium Low,Moderate,Low,Medium Low,Low,Moderate,Low,Moderate,Very Low,Medium Low,None,Medium Low,Medium Low,Low,Moderate,Very Low,Moderate,Medium Low,None,Low
+YOUNG ADULT,F,Medium Low,Low,Low,None,None,None,None,None,Moderate,Low,Low,Moderately High,Very Low,None,Very Low,Medium Low,Moderate,Very Low,None,None,None,Low
+ADULT,F,Low,None,Low,None,Low,None,Low,Medium Low,Low,Moderate,Very Low,None,Low,Moderate,Moderate,None,Medium Low,Very Low,None,Low,Low,Low
+ADULT,F,Moderately High,Low,Medium Low,None,Low,Medium Low,Moderately High,Low,Low,Moderately High,None,Low,None,None,None,None,None,Low,Low,Moderate,Low,Low
+OLDER ADULT,F,Low,Medium Low,None,Medium Low,Low,Moderately High,Low,None,Low,None,Very Low,Moderate,Low,Low,None,Low,Medium Low,None,Medium Low,Moderate,Low,Low
+OLDER ADULT,M,Medium Low,Low,None,Low,Medium Low,Moderately High,None,Low,Very High,Low,None,None,None,None,None,Medium Low,Low,Low,Low,Medium Low,Medium Low,Low
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,Low,Medium Low,Low,None,Medium Low,Low,None,Low,Very High,High,Very Low,Very Low,Very Low,Low,Low,Low,None,Very Low,Medium Low,Low,Medium Low,Low
+ADULT,M,Low,Medium Low,Moderately High,Low,None,None,None,None,Moderate,Medium Low,Very Low,Medium Low,Very Low,None,Low,Moderate,High,None,Medium Low,Low,Low,Low
+ELDERLY,M,Medium Low,Low,None,Medium Low,Low,Moderate,Moderately High,None,High,Low,Low,Very Low,Medium Low,Medium Low,Very Low,None,Low,Medium Low,Low,Medium Low,Low,Low
+ELDERLY,M,Low,Medium Low,Moderate,Low,None,None,Low,Moderate,Medium Low,Low,None,Moderate,Very Low,None,Low,Low,None,Low,Low,None,Low,Low
+OLDER ADULT,M,Medium Low,None,None,None,Low,Medium Low,Moderate,None,Medium Low,Low,Medium Low,Low,Very Low,Moderately High,Very Low,None,Low,Low,Moderate,Moderately High,Low,Low
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+OLDER ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ELDERLY,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,M,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+OLDER ADULT,F,None,High,Very High,Severe,Severe,High,Severe,Severe,Medium Low,Moderate,Very High,High,Low,Low,Moderately High,Moderate,Low,Low,None,Low,None,Medium
+OLDER ADULT,F,None,High,Very High,Moderately High,Medium Low,Low,High,Low,Medium Low,Medium Low,Very Low,Very Low,Low,Medium Low,High,Very High,Moderate,Very High,Severe,Severe,Moderately High,Medium
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,F,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+ADULT,F,Low,None,Moderately High,Medium Low,Low,Medium Low,Low,Moderate,None,Moderate,Very Low,Medium Low,Moderately High,Very High,Very Low,Moderately High,Severe,None,Medium Low,Low,Medium Low,Medium
+ADULT,F,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,F,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+ADULT,M,High,Severe,Very High,Very High,Severe,High,Low,Moderate,None,Low,Medium Low,Low,Very Low,Very High,Moderately High,Moderately High,None,Severe,Medium Low,Moderate,Low,Medium
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,M,Low,Moderate,Moderately High,Moderate,Medium Low,Low,Low,Moderate,Medium Low,Low,Very Low,Medium Low,Low,Moderate,Very Low,Low,Medium Low,None,Low,Medium Low,Moderate,Low
+OLDER ADULT,M,Medium Low,None,Moderate,Medium Low,Low,Medium Low,Moderate,Medium Low,None,Moderate,Low,None,Low,Low,Very Low,Moderate,Low,Very Low,Medium Low,Moderate,Medium Low,Low
+YOUNG ADULT,F,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,Medium Low,None,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Medium Low,Very Low,Very Low,Low,Low,Moderate,None,Moderate,Low,High,Low,Low
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+OLDER ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+YOUNG ADULT,M,Medium Low,Low,Moderate,Low,Medium Low,Low,Medium Low,Medium Low,Low,Low,Low,Low,Medium Low,Moderately High,Moderately High,Moderately High,Moderately High,Medium Low,High,Moderately High,Moderate,Medium
+ADULT,M,None,Low,Medium Low,Moderate,Low,Moderate,Medium Low,Medium Low,Medium Low,Low,Low,Medium Low,Medium Low,None,Very Low,Moderate,High,Moderate,Moderate,Low,Moderately High,Medium
+YOUNG ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+YOUNG ADULT,M,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+ADULT,M,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+ADULT,M,Severe,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+YOUNG ADULT,F,Very High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Very High,High,High,Very Low,Very High,Moderately High,Very High,High,High,Low,Medium Low,None,High
+ADULT,F,Very High,Very High,Very High,Very High,High,Severe,Severe,Severe,Very High,Very High,High,Very High,Medium Low,Low,Low,None,Moderate,Moderate,High,Severe,Moderately High,High
+ADULT,M,High,Very High,Very High,Very High,Severe,Severe,High,Severe,Very High,Very High,High,High,Very High,Moderately High,High,High,Very High,Very High,Severe,High,Low,High
+OLDER ADULT,M,High,Very High,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Moderate,Medium Low,Very Low,Very High,Severe,Very Low,Moderate,Moderately High,Medium Low,High
+ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Very High,Severe,High,High,Severe,High,Moderate,Very High,Low,Medium Low,Medium Low,None,Moderate,High
+YOUNG ADULT,F,Moderate,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
+YOUNG ADULT,F,High,Severe,Very High,Very High,Severe,High,Severe,Severe,Severe,Very High,High,Severe,Low,Low,Medium Low,None,Moderate,Very Low,Moderate,Low,Medium Low,High
+OLDER ADULT,M,High,Moderately High,High,Moderately High,Moderately High,Moderate,High,Severe,Low,Medium Low,Medium Low,Very High,Very High,Very High,Severe,Low,None,Medium Low,High,Severe,Low,High
