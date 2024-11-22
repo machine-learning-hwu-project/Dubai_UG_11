@@ -62,7 +62,21 @@
    - Type: Images
    - Source: [https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data]  
    - License: Data files © Original Authors  
-   - Example:  
+   - Example:
+  
+     **Bengin**
+     ![image](https://github.com/user-attachments/assets/4fd8e98d-239a-425a-a3b7-63a47cc07f47)
+
+
+     **Malignant**
+     ![image](https://github.com/user-attachments/assets/f7c81986-663d-412a-9ff9-823542b2bd0c)
+
+
+     **Normal**
+     ![image](https://github.com/user-attachments/assets/876b756c-f3be-4811-b13c-482fc071977e)
+
+
+
 
    
 
