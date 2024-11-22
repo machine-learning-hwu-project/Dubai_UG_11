@@ -52,4 +52,6 @@ Also useful to check what files have been changed since your last commit
 
 Delete all the uncommited changes in your branch and Revert back to the last commit
 
- git restore
+ git restore .
+ OR
+ git reset --hard
