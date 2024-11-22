@@ -130,13 +130,17 @@ This project satisfies the following requirements:
    - extracting Features for better performance.
 
 2. [*Clustering*](https://github.com/machine-learning-hwu-project/Dubai_UG_11/tree/main/notebooks/r3-clustering)
-   - Implementation of K-means, agglomerative-hierchal clustering and DBSCAN to identify patterns in data.  
+   - Implementation of K-means, agglomerative-hierchal clustering and DBSCAN to identify patterns in data.
+   - Exploring parameters such as number of clusters , min samples and epislon and type of dataset.
+   - silhoutte score , Davies-Bouldin index were used to validate clusters.
 
 3. [*Baseline Training and Evaluation*](https://github.com/machine-learning-hwu-project/Dubai_UG_11/tree/main/notebooks/r4-basic-classifiers-and-decision-trees)
    - Implementation of Decision Trees, Naive Bayes and K- nearest neighbor.
+   - compare different datasets and parameters.
 
 4. [*Neural Networks*](https://github.com/machine-learning-hwu-project/Dubai_UG_11/tree/main/notebooks/r5-neural%20networks)
-   - Application of Multi-Layer Perceptrons (MLPs), Convolutional Neural Networks (CNNs) and logistic regression
+   - Application of Multi-Layer Perceptrons (MLPs), Convolutional Neural Networks (CNNs) and logistic regression.
+   - explore different datasets and parameters.
 
 ---
 
