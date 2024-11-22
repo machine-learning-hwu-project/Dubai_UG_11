@@ -117,6 +117,7 @@ for every dataset, the files are formated and abstracted such that :
    - str = string
    - ed = edge detection on image dataset
    - foc = focused image on dataset
+   - ub = Unbalanced 
 
 
 ## Project Requirements Overview
