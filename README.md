@@ -27,7 +27,7 @@
 
 ## Dataset(s) Sources
 
-1. *Lung Cancer*  
+1. *Dataset1*  
    - Source: [(https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer)]
    - Type: Tabular
    - License: CC BY-NC-SA 4.0
@@ -42,25 +42,27 @@
 | F      |  63 |       1 |              2 |       1 |             1 |                1 |       1 |       1 |        2 |                  1 |        2 |                   2 |                      1 |          1 | NO          |
 
 
-2. *Lung Cancer Prediction* 
+2. *Dataset2* 
    - Type: Tabular 
    - Source: [https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link?resource=download]  
    - License: Other  
    - Example: 
 
-3. *IQ-OTH/NCCD - Lung Cancer Dataset*  
-   - Type: Images
-   - Source: [https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data]  
-   - License: Data files © Original Authors  
-   - Example:   
 
-| Index | Patient Id | Age | Gender | Air Pollution | Alcohol Use | Dust Allergy | Occupational Hazards | Genetic Risk | Chronic Lung Disease | Fatigue | Weight Loss | Shortness of Breath | Wheezing | Swallowing Difficulty | Clubbing of Finger Nails | Frequent Cold | Dry Cough | Snoring | Level   |
+   | Index | Patient Id | Age | Gender | Air Pollution | Alcohol Use | Dust Allergy | Occupational Hazards | Genetic Risk | Chronic Lung Disease | Fatigue | Weight Loss | Shortness of Breath | Wheezing | Swallowing Difficulty | Clubbing of Finger Nails | Frequent Cold | Dry Cough | Snoring | Level   |
 |-------|------------|-----|--------|---------------|-------------|--------------|-----------------------|--------------|-----------------------|---------|-------------|---------------------|----------|------------------------|--------------------------|---------------|-----------|---------|---------|
 | 0     | P1         |  33 |      1 |             2 |           4 |            5 |                     4 |            3 |                     2 |       3 |           4 |                   2 |        2 |                      3 |                        1 |             2 |         3 |       4 | Low     |
 | 1     | P10        |  17 |      1 |             3 |           1 |            5 |                     3 |            4 |                     2 |       1 |           3 |                   7 |        8 |                      6 |                        2 |             1 |         7 |       2 | Medium  |
 | 2     | P100       |  35 |      1 |             4 |           5 |            6 |                     5 |            5 |                     4 |       8 |           7 |                   9 |        2 |                      1 |                        4 |             6 |         7 |       2 | High    |
 | 3     | P1000      |  37 |      1 |             7 |           7 |            7 |                     7 |            6 |                     7 |       4 |           2 |                   3 |        1 |                      4 |                        5 |             6 |         7 |       5 | High    |
 | 4     | P101       |  46 |      1 |             6 |           8 |            7 |                     7 |            7 |                     6 |       3 |           2 |                   4 |        1 |                      4 |                        2 |             4 |         2 |       3 | High    |
+
+
+3. *Dataset3*  
+   - Type: Images
+   - Source: [https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data]  
+   - License: Data files © Original Authors  
+   - Example:  
 
    
 
