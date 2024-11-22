@@ -1,0 +1,2 @@
+dataset,hidden_layers,learning_rate,activation,optimizer,epochs,avg_f1_score
+2_nrml.csv,"[23, 23, 23]",0.01,relu,adam,50,1.0
