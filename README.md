@@ -123,7 +123,7 @@ for every dataset, the files are formated and abstracted such that :
 
 This project satisfies the following requirements:
 
-1. *Data Analysis and Exploration*  
+1. [*Data Analysis and Exploration*](https://github.com/machine-learning-hwu-project/Dubai_UG_11/tree/main/notebooks/r2-data-analysis) 
    - Preprocessing for missing values, outliers, etc.  
    - Exploratory Data Analysis (EDA) with visualizations.  
    - extracting Features for better performance.
