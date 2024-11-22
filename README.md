@@ -17,9 +17,9 @@
 
 | Milestone                  | Description                                               | Expected Completion |
 |----------------------------|-----------------------------------------------------------|---------------------|
-| Week 4 - Project Pitch     | Finalize topic, datasets, and objectives                  | [Insert Date]       |
-| Week 6 - Data Exploration  | Complete EDA and preprocessing                            | [Insert Date]       |
-| Week 8 - Initial Models    | Implement clustering and baseline models                  | [Insert Date]       |
+| Week 4 - Project Pitch     | Finalize topic, datasets, and objectives                  | 4/10/2024       |
+| Week 6 - Data Exploration  | Complete EDA and preprocessing                            | 20/10/2024       |
+| Week 8 - Initial Models    | Implement clustering and baseline models                  | 3/11/2024       |
 | Week 10 - Advanced Models  | Train and evaluate advanced neural network models         | 15/11/2024          |
 | Week 11 - Final Deliverables | Submit report, code, and complete project documentation | 22/11/2024          |
 
@@ -49,7 +49,7 @@
    - Example: 
 
 
-   | Index | Patient Id | Age | Gender | Air Pollution | Alcohol Use | Dust Allergy | Occupational Hazards | Genetic Risk | Chronic Lung Disease | Fatigue | Weight Loss | Shortness of Breath | Wheezing | Swallowing Difficulty | Clubbing of Finger Nails | Frequent Cold | Dry Cough | Snoring | Level   |
+| Index | Patient Id | Age | Gender | Air Pollution | Alcohol Use | Dust Allergy | Occupational Hazards | Genetic Risk | Chronic Lung Disease | Fatigue | Weight Loss | Shortness of Breath | Wheezing | Swallowing Difficulty | Clubbing of Finger Nails | Frequent Cold | Dry Cough | Snoring | Level   |
 |-------|------------|-----|--------|---------------|-------------|--------------|-----------------------|--------------|-----------------------|---------|-------------|---------------------|----------|------------------------|--------------------------|---------------|-----------|---------|---------|
 | 0     | P1         |  33 |      1 |             2 |           4 |            5 |                     4 |            3 |                     2 |       3 |           4 |                   2 |        2 |                      3 |                        1 |             2 |         3 |       4 | Low     |
 | 1     | P10        |  17 |      1 |             3 |           1 |            5 |                     3 |            4 |                     2 |       1 |           3 |                   7 |        8 |                      6 |                        2 |             1 |         7 |       2 | Medium  |
@@ -58,32 +58,66 @@
 | 4     | P101       |  46 |      1 |             6 |           8 |            7 |                     7 |            7 |                     6 |       3 |           2 |                   4 |        1 |                      4 |                        2 |             4 |         2 |       3 | High    |
 
 
+
+
 3. *Dataset3*  
    - Type: Images
    - Source: [https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data]  
    - License: Data files © Original Authors  
    - Example:
-  
-     **Bengin**
+
+
+
+
+
+     **Bengin**:
      ![image](https://github.com/user-attachments/assets/4fd8e98d-239a-425a-a3b7-63a47cc07f47)
 
 
-     **Malignant**
+     **Malignant**:
      ![image](https://github.com/user-attachments/assets/f7c81986-663d-412a-9ff9-823542b2bd0c)
 
 
-     **Normal**
+     **Normal**:
      ![image](https://github.com/user-attachments/assets/876b756c-f3be-4811-b13c-482fc071977e)
+  
+
 
 
 
 
    
 
-### Additional Steps in Dataset Preparation
-- [List any additional data cleaning, augmentation, or collection steps performed.]
+### Additional Steps in Dataset Preparation and the datasets
 
----
+
+1. **Dataset 1**:
+   - extracting features
+   - balancing data using sampling techniques
+   - normalizing the dataset (from 0 to 1)
+   - convert to string
+
+
+2. **Dataset 2**
+   - normalizing the dataset
+   - reducing the features (for DBSCAN)
+   - convert to string
+
+
+3. **Dataset 3**
+   - edge detection applied on images
+   - focused image
+
+
+for every dataset, the files are formated and abstracted such that :
+   - ef = extracted
+   - b = balanced
+   - nrml = normalized
+   - og = original
+   - str = string
+   - ed = edge detection on image dataset
+   - foc = focused image on dataset
+
 
 ## Project Requirements Overview
 
@@ -92,19 +126,16 @@ This project satisfies the following requirements:
 1. *Data Analysis and Exploration*  
    - Preprocessing for missing values, outliers, etc.  
    - Exploratory Data Analysis (EDA) with visualizations.  
-   - Feature selection for optimal performance.
+   - extracting Features for better performance.
 
 2. *Clustering*  
-   - Implementation of [insert algorithm(s), e.g., "k-Means"] to identify patterns in data.  
-   - Evaluation metrics: [Insert metrics used, e.g., "Silhouette Score"].
+   - Implementation of K-means, agglomerative-hierchal clustering and DBSCAN to identify patterns in data.  
 
 3. *Baseline Training and Evaluation*  
-   - Implementation of Decision Trees and other baseline models like Naive Bayes.
-   - Evaluation using [insert metrics, e.g., "Accuracy, RMSE"].
+   - Implementation of Decision Trees, Naive Bayes and K- nearest neighbor.
 
 4. *Neural Networks*  
-   - Application of Multi-Layer Perceptrons (MLPs) and Convolutional Neural Networks (CNNs).  
-   - Fine-tuning and comparison with baseline models.  
+   - Application of Multi-Layer Perceptrons (MLPs), Convolutional Neural Networks (CNNs) and logistic regression
 
 ---
 
@@ -115,14 +146,10 @@ This project satisfies the following requirements:
 
 | File/Folder     | Purpose                                      |
 |------------------|----------------------------------------------|
-| data/         | Contains raw and processed datasets.        |
-| src/          | Source code for data processing and modeling.|
-| notebooks/    | Jupyter notebooks for exploration and EDA.  |
-| results/      | Model outputs, evaluation metrics, and figures.|
+| data/         | Contains raw and processed for datasets.        |
+| notebooks/    | Contains jupyter notebooks for data analysis, clustering, classifiers, decision trees, neural networksand etc.  |
+| scripts/      | Contains scripts used for data preprocessing.|
 | README.md     | Project overview and instructions.          |
 
 ---
-
-### Disclaimer:
-This project adheres to the guidelines outlined in the coursework requirements. All work is original, and external contributions (e.g., datasets, libraries) are properly cited. 
 
