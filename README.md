@@ -140,8 +140,6 @@ This project satisfies the following requirements:
 
 ---
 
-## Running the Data Preparation Pipeline
-
 
 ## Files/Folders in GitHub
 
