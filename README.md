@@ -128,13 +128,13 @@ This project satisfies the following requirements:
    - Exploratory Data Analysis (EDA) with visualizations.  
    - extracting Features for better performance.
 
-2. *Clustering*  
+2. [*Clustering*](https://github.com/machine-learning-hwu-project/Dubai_UG_11/tree/main/notebooks/r3-clustering)
    - Implementation of K-means, agglomerative-hierchal clustering and DBSCAN to identify patterns in data.  
 
-3. *Baseline Training and Evaluation*  
+3. [*Baseline Training and Evaluation*](https://github.com/machine-learning-hwu-project/Dubai_UG_11/tree/main/notebooks/r4-basic-classifiers-and-decision-trees)
    - Implementation of Decision Trees, Naive Bayes and K- nearest neighbor.
 
-4. *Neural Networks*  
+4. *Neural Networks*[https://github.com/machine-learning-hwu-project/Dubai_UG_11/tree/main/notebooks/r5-neural%20networks]
    - Application of Multi-Layer Perceptrons (MLPs), Convolutional Neural Networks (CNNs) and logistic regression
 
 ---
