@@ -33,6 +33,15 @@
    - License: CC BY-NC-SA 4.0
    - Example: 
 
+| GENDER | AGE | SMOKING | YELLOW_FINGERS | ANXIETY | PEER_PRESSURE | CHRONIC DISEASE | FATIGUE | ALLERGY | WHEEZING | ALCOHOL CONSUMING | COUGHING | SHORTNESS OF BREATH | SWALLOWING DIFFICULTY | CHEST PAIN | LUNG_CANCER |
+|--------|-----|---------|----------------|---------|---------------|------------------|---------|---------|----------|--------------------|----------|---------------------|------------------------|------------|-------------|
+| M      |  69 |       1 |              2 |       2 |             1 |                1 |       2 |       1 |        2 |                  2 |        2 |                   2 |                      2 |          2 | YES         |
+| M      |  74 |       2 |              1 |       1 |             1 |                2 |       2 |       2 |        1 |                  1 |        1 |                   2 |                      2 |          2 | YES         |
+| F      |  59 |       1 |              1 |       1 |             2 |                1 |       2 |       1 |        2 |                  1 |        2 |                   2 |                      1 |          2 | NO          |
+| M      |  63 |       2 |              2 |       2 |             1 |                1 |       1 |       1 |        1 |                  2 |        1 |                   1 |                      2 |          2 | NO          |
+| F      |  63 |       1 |              2 |       1 |             1 |                1 |       1 |       1 |        2 |                  1 |        2 |                   2 |                      1 |          1 | NO          |
+
+
 2. *Lung Cancer Prediction* 
    - Type: Tabular 
    - Source: [https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link?resource=download]  
@@ -44,6 +53,16 @@
    - Source: [https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data]  
    - License: Data files © Original Authors  
    - Example:   
+
+| Index | Patient Id | Age | Gender | Air Pollution | Alcohol Use | Dust Allergy | Occupational Hazards | Genetic Risk | Chronic Lung Disease | Fatigue | Weight Loss | Shortness of Breath | Wheezing | Swallowing Difficulty | Clubbing of Finger Nails | Frequent Cold | Dry Cough | Snoring | Level   |
+|-------|------------|-----|--------|---------------|-------------|--------------|-----------------------|--------------|-----------------------|---------|-------------|---------------------|----------|------------------------|--------------------------|---------------|-----------|---------|---------|
+| 0     | P1         |  33 |      1 |             2 |           4 |            5 |                     4 |            3 |                     2 |       3 |           4 |                   2 |        2 |                      3 |                        1 |             2 |         3 |       4 | Low     |
+| 1     | P10        |  17 |      1 |             3 |           1 |            5 |                     3 |            4 |                     2 |       1 |           3 |                   7 |        8 |                      6 |                        2 |             1 |         7 |       2 | Medium  |
+| 2     | P100       |  35 |      1 |             4 |           5 |            6 |                     5 |            5 |                     4 |       8 |           7 |                   9 |        2 |                      1 |                        4 |             6 |         7 |       2 | High    |
+| 3     | P1000      |  37 |      1 |             7 |           7 |            7 |                     7 |            6 |                     7 |       4 |           2 |                   3 |        1 |                      4 |                        5 |             6 |         7 |       5 | High    |
+| 4     | P101       |  46 |      1 |             6 |           8 |            7 |                     7 |            7 |                     6 |       3 |           2 |                   4 |        1 |                      4 |                        2 |             4 |         2 |       3 | High    |
+
+   
 
 ### Additional Steps in Dataset Preparation
 - [List any additional data cleaning, augmentation, or collection steps performed.]
